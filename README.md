@@ -1,6 +1,6 @@
 # international-airpassengers-project
 
-Submitted by: <your name> — academy: @SDAIAAcademy
+Submitted by: Abdullah Faisal Alsehli — academy: @SDAIAAcademy
 
 Capstone for the SDAIA Time Series course: the full pipeline — exploration,
 decomposition, benchmark floor, model through the framework (AutoGluon),
@@ -41,3 +41,4 @@ Deadline: **10:00 AM (Riyadh time), Thursday 15 October 2026**.
 - `brief.md` — the project brief
 - `rubric.md` — how it is graded (100 + extra credit)
 - `coursekit/` — shared plotting + scoring helpers (the course's harness)
+
